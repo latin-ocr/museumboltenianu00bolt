@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./museumboltenianu00bolt/museumboltenianu00bolt_0012.png"; bbox 0 0 2054 3350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 303 881 1250 988">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 303 881 1250 988">
+     <span class='ocr_line' id='line_1_1' title="bbox 303 881 1250 988; baseline -0.015 -24.988"><span class='ocrx_word' id='word_1_1' title='bbox 303 905 566 988; x_wconf 54' lang='lat' dir='ltr'>vam</span> <span class='ocrx_word' id='word_1_2' title='bbox 560 891 802 979; x_wconf 36' lang='lat' dir='ltr'>‘m&#39;ww’c</span> <span class='ocrx_word' id='word_1_3' title='bbox 800 900 893 969; x_wconf 61' lang='grc' dir='ltr'>Γζ,</span> <span class='ocrx_word' id='word_1_4' title='bbox 865 881 1250 967; x_wconf 42' lang='lat' dir='ltr'>{flanimea}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 735 989 829 1009">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 735 989 829 1009">
+     <span class='ocr_line' id='line_1_2' title="bbox 735 989 829 1009; baseline -0.021 -4"><span class='ocrx_word' id='word_1_5' title='bbox 735 992 738 1005; x_wconf 72' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_6' title='bbox 778 998 782 1002; x_wconf 39' lang='grc' dir='ltr'><strong>Α</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 815 989 829 1009; x_wconf 44' lang='grc'>“,,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2052 3350">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2052 3350">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2052 3350; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2052 3350; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

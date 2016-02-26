@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./museumboltenianu00bolt/museumboltenianu00bolt_0010.png"; bbox 0 0 2054 3350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 497 1459 1582 1703">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 497 1459 1582 1703">
+     <span class='ocr_line' id='line_1_1' title="bbox 499 1459 1581 1533; baseline 0 -21"><span class='ocrx_word' id='word_1_1' title='bbox 499 1460 725 1531; x_wconf 83' lang='lat' dir='ltr'>Reprint</span> <span class='ocrx_word' id='word_1_2' title='bbox 765 1461 924 1531; x_wconf 88' lang='lat'>1906.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1010 1459 1366 1533; x_wconf 86' lang='lat' dir='ltr'>Seventy-five</span> <span class='ocrx_word' id='word_1_4' title='bbox 1404 1461 1581 1532; x_wconf 85' lang='lat' dir='ltr'>copies</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 497 1554 1582 1627; baseline -0.001 -21"><span class='ocrx_word' id='word_1_5' title='bbox 497 1556 619 1627; x_wconf 90' lang='lat' dir='ltr'>only</span> <span class='ocrx_word' id='word_1_6' title='bbox 684 1555 912 1627; x_wconf 86' lang='lat' dir='ltr'>printed,</span> <span class='ocrx_word' id='word_1_7' title='bbox 969 1554 1025 1606; x_wconf 71' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_8' title='bbox 1098 1555 1283 1607; x_wconf 88' lang='lat' dir='ltr'><strong>which</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1365 1555 1470 1607; x_wconf 85' lang='lat' dir='ltr'>this</span> <span class='ocrx_word' id='word_1_10' title='bbox 1539 1557 1582 1605; x_wconf 83' lang='lat' dir='ltr'>is</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 498 1633 826 1703; baseline -0.009 -1"><span class='ocrx_word' id='word_1_11' title='bbox 498 1649 724 1703; x_wconf 88' lang='lat' dir='ltr'>number</span> <span class='ocrx_word' id='word_1_12' title='bbox 791 1633 826 1698; x_wconf 79' lang='grc' dir='ltr'><em>Ι</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 585 1706 1745 1877">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 585 1706 1745 1877">
+     <span class='ocr_line' id='line_1_4' title="bbox 585 1706 1745 1877; baseline -0.009 -25"><span class='ocrx_word' id='word_1_13' title='bbox 585 1763 740 1851; x_wconf 49' lang='lat' dir='ltr'>L&amp;</span> <span class='ocrx_word' id='word_1_14' title='bbox 766 1783 1001 1842; x_wconf 52' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_15' title='bbox 1075 1706 1675 1830; x_wconf 40' lang='grc' dir='ltr'>βῆν-4*</span> <span class='ocrx_word' id='word_1_16' title='bbox 1742 1875 1745 1877; x_wconf 10' lang='lat'><strong><em>¹</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

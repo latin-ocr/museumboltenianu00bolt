@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./museumboltenianu00bolt/museumboltenianu00bolt_0002.png"; bbox 0 0 2054 3350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2027 3350">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2027 3350">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1608 1123; baseline 0 -119"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1608 1123; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 1123 2027 3350; baseline 0 -1850"><span class='ocrx_word' id='word_1_2' title='bbox 0 1123 2027 3350; x_wconf 95' lang='lat' dir='ltr'><strong>     </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1363 858 1846 1123">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1363 858 1846 1123">
+     <span class='ocr_line' id='line_1_3' title="bbox 1363 858 1846 1123; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1363 858 1846 1123; x_wconf 95' lang='lat' dir='ltr'><strong>  </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 619 924 1364 1221">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 600 924 1364 1226">
+     <span class='ocr_line' id='line_1_4' title="bbox 619 924 1364 1221; baseline -0.007 4.876"><span class='ocrx_word' id='word_1_4' title='bbox 619 924 1364 1221; x_wconf 50' lang='lat' dir='ltr'><strong>{fflffffflffl</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 586 1241 1355 1414">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 586 1241 1355 1414">
+     <span class='ocr_line' id='line_1_5' title="bbox 586 1241 1355 1414; baseline 0.008 -6"><span class='ocrx_word' id='word_1_5' title='bbox 586 1241 1355 1414; x_wconf 86' lang='lat' dir='ltr'><strong>LIBRARIES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1876 1196 1918 1272">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1876 1196 1918 1272">
+     <span class='ocr_line' id='line_1_6' title="bbox 1876 1196 1918 1272; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 1876 1196 1918 1272; x_wconf 37' lang='lat' dir='ltr'><strong>⁷Q&amp;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 811 2020 1135 2071">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 811 2020 1135 2071">
+     <span class='ocr_line' id='line_1_7' title="bbox 811 2020 1135 2071; baseline -0.006 -10"><span class='ocrx_word' id='word_1_7' title='bbox 811 2024 1036 2071; x_wconf 75' lang='lat' dir='ltr'>Bequest</span> <span class='ocrx_word' id='word_1_8' title='bbox 1077 2020 1135 2059; x_wconf 71' lang='lat' dir='ltr'><strong>of</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 716 2154 1271 2195">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 716 2154 1271 2195">
+     <span class='ocr_line' id='line_1_8' title="bbox 716 2154 1271 2195; baseline -0.009 0"><span class='ocrx_word' id='word_1_9' title='bbox 716 2157 764 2195; x_wconf 91' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 814 2154 1073 2194; x_wconf 80' lang='lat' dir='ltr'>STILLMAN</span> <span class='ocrx_word' id='word_1_11' title='bbox 1111 2154 1271 2192; x_wconf 85' lang='lat' dir='ltr'><strong>BERRY</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
